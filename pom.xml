@@ -39,7 +39,7 @@
         <ehcache.version>3.2.2</ehcache.version>
         <json-path.version>2.2.0</json-path.version>
         <logstash-logback.version>4.11</logstash-logback.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.9</logback.version>
 
         <swagger-annotations.version>1.5.13</swagger-annotations.version>
         <springfox-swagger2.version>2.7.0</springfox-swagger2.version>
